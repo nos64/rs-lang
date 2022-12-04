@@ -1,3 +1,5 @@
+#Deploy - https://nos64-rslang.netlify.app/
+
 # rs-lang
 ### English learning app
 
